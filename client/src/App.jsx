@@ -1,12 +1,12 @@
 
+import { Video } from "./Video"
 
 function App() {
-
-
+  
   return (
-    <>
-      <h1>Hi</h1>
-    </>
+    <div>
+      <Video/>
+    </div>
   )
 }
 
